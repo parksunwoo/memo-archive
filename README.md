@@ -1,2 +1,2 @@
-# papers
-summary of ML papers I've read
+# memo
+pieces of interest
